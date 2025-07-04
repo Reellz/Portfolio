@@ -1,7 +1,7 @@
 # 🌐 **Bwambale Reuel Portfolio**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89e0f9eb-4c01-40b9-93c9-579f57911dec/deploy-status)](https://app.netlify.com/projects/reuelbwambs/deploys)
 [![GitHub followers](https://img.shields.io/github/followers/Reellz?label=Follow&style=social)](https://github.com/Reellz)
-
 
 Welcome to my personal portfolio! This site showcases my work, skills, and passion as a student developer.
 
